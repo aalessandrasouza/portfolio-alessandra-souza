@@ -53,8 +53,8 @@ Je suis à la recherche d’une **alternance de 12 à 24 mois** dans l’un des 
 
 | Projet                                  | Description                                      | Compétences                  |
 |-----------------------------------------|--------------------------------------------------|------------------------------|
-| [Simulateur bancaire](https://github.com/aalessandrasouza/simulateur-de-compte-bancaire-en-python.git)             | Système de gestion de dépôt, retrait et solde    | Python • Logique • Console   |
-| [Projeto Open Source no GitHub](https://github.com/aalessandrasouza/dio-lab-open-source.git)   | Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One                                    | Git • GitHub              |
+| [Simulateur de Compte Bancaire](https://github.com/aalessandrasouza/simulateur-de-compte-bancaire-en-python.git)             | Système de gestion de dépôt, retrait et solde    | Python • Logique • Console   |
+| [Projeto Open Source no GitHub](https://github.com/aalessandrasouza/dio-lab-open-source.git)   | Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One                                    | Git • GitHub              |
 
 ---
 
